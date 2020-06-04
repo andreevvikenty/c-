@@ -1,0 +1,13 @@
+C:\Users\Vikenty\source\repos\l1\l1\obj\Debug\netcoreapp3.1\l1.csprojAssemblyReference.cache
+C:\Users\Vikenty\source\repos\l1\l1\obj\Debug\netcoreapp3.1\l1.csproj.CoreCompileInputs.cache
+C:\Users\Vikenty\source\repos\l1\l1\obj\Debug\netcoreapp3.1\l1.AssemblyInfoInputs.cache
+C:\Users\Vikenty\source\repos\l1\l1\obj\Debug\netcoreapp3.1\l1.AssemblyInfo.cs
+C:\Users\Vikenty\source\repos\l1\l1\bin\Debug\netcoreapp3.1\l1.exe
+C:\Users\Vikenty\source\repos\l1\l1\bin\Debug\netcoreapp3.1\l1.deps.json
+C:\Users\Vikenty\source\repos\l1\l1\bin\Debug\netcoreapp3.1\l1.runtimeconfig.json
+C:\Users\Vikenty\source\repos\l1\l1\bin\Debug\netcoreapp3.1\l1.runtimeconfig.dev.json
+C:\Users\Vikenty\source\repos\l1\l1\bin\Debug\netcoreapp3.1\l1.dll
+C:\Users\Vikenty\source\repos\l1\l1\bin\Debug\netcoreapp3.1\l1.pdb
+C:\Users\Vikenty\source\repos\l1\l1\obj\Debug\netcoreapp3.1\l1.dll
+C:\Users\Vikenty\source\repos\l1\l1\obj\Debug\netcoreapp3.1\l1.pdb
+C:\Users\Vikenty\source\repos\l1\l1\obj\Debug\netcoreapp3.1\l1.genruntimeconfig.cache
